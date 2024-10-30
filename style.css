@@ -39,6 +39,10 @@ button {
   font-size: 14px;
 }
 
+button:focus {
+  outline: 2px solid #00eeff;
+}
+
 main {
   flex: 1;
   padding: 10px 20px;
